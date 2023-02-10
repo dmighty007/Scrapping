@@ -1,4 +1,4 @@
-#ExplainPaper
+# ExplainPaper
 ExplainPaper is a python class that allows you to interact with the https://www.explainpaper.com website and perform various actions, such as uploading a file, double-clicking elements, clicking questions, and asking questions.
 
 ## Prerequisites
